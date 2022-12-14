@@ -1,4 +1,5 @@
 download virtual machine vmware Astra Linux https://cloud.mail.ru/public/a9xx/DTYCygvde
+update
 
 #Serial port
 sudo apt-get install build-essential
